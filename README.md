@@ -1,1 +1,120 @@
-# siemens-online-conference
+# Siemens online Conference & Exhibition
+
+## Table of Content
+
+- [Role & Responsibility](#Role-&-Responsibility)
+- [Work Flow](#Application-Work-Flow)
+- [Demo](#Demo)
+- [Project Description](#Project-Description)
+- [Main Features](#Main-features)
+- [Achievement](#Achievement)
+- [Note](#note)
+
+# Role & Responsibility
+
+I was the only developer in this project.
+
+### My responsibilities in this project include:
+
+- System Design
+- Create UIs in React (tables, banners, poppers, Modals, buttons and so on)
+- Build RESTful APIs in expressjs
+- CRUD data in Mysql DB Tables
+- Email, SMS Automation
+- Back-up, sql statement automation
+- User Authentication
+- Schedule VOD and Live Streaming
+- Handle browser compatibility (Chrome, Safari, Firefox, MS Edge, IE11)
+- Responsive Design (Supports mobile devices)
+- Data Statistics
+- Gitlab Administration
+- Implement Video chat
+- Implement Text chat
+- Help Center embedding & Technical Support during the event
+
+I developed front-end and back-end entirely on my own.
+
+# Application Work Flow
+
+#### This application was built with Reactjs, Expressjs, MysqlDB and AWS.
+
+![diagram](assets/diagram.png)
+
+# Demo
+
+### Website URL
+
+#### [Website URL](http://virtualseoul.or.kr/)
+
+[![website url](assets/website_url.gif)](https://www.youtube.com/watch?v=ksBnRT1f2Ak&t=2s)
+
+While we always allow access to this website, we have closed most of its features since it is not the period of the Event.
+
+### Recording
+
+- [Seoul Map](https://www.youtube.com/watch?v=6EdqKznxncA)
+- [LIVE Streaming demo](https://www.youtube.com/watch?v=a9wX4MSkSyg)
+- [Video Chat](https://www.youtube.com/watch?v=edzgNn5f5yQ)
+
+# Project Description
+
+This web application was used for the Online Conference held by [Siemens](https://www.siemens.com/global/en.html), Multinational corporation headquartered in Munich, Germany.
+
+- Logged users per day: 2,000 ~ 3,000
+- Acceessed in: 5 countries
+- Acceessed by: Desktop, Mobile device, Labtop, Tablet
+- Acceessed on: Chrome, IE, Firefox, Safari, Edge
+
+## Main features
+
+### Branding via built in booth
+
+![booth.gif](assets/booth.gif)
+
+### Networking via text chat
+
+![assets/text_chat.gif](assets/text_chat.gif)
+
+### Counseling via video chat
+
+![assets/video_chat.gif](assets/video_chat.gif)
+
+### Lobby
+
+![assets/website_url.gif](assets/website_url.gif)
+
+### Live & VOD Streaming
+
+![streaming](assets/live_streaming.gif)
+
+### Exhibition
+
+![virtual_seoul.png](assets/exhibition.png)
+
+### Notice board
+
+![program.png](assets/program.png)
+
+### Stamp Event
+
+![stamp.png](assets/stamp.png)
+
+### This application feels like a real event and offers almost all features that offline events do.
+
+# Achievement
+
+<!--
+
+### I've become familiar with Linux terminal.
+
+### I learned how to talk to client, manage schedule and datas -->
+
+### This project motivated me to build a reactjs open-source library
+
+[Link To My Crontab library](https://www.npmjs.com/package/reactjs-crontab)
+
+During the development, I realised building a crontab (scheduling jobs) is quite tedious and difficult to test. This motivated me to create a node open-source package, which allows you to easily build a crontab functionality. I created this package entirely on my own from scratch. There is an average of approximately 300 weekly downloads.
+
+# Note
+
+Due to the company policy, I am afraid that I am not allowed to open the source code.
