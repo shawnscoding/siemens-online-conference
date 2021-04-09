@@ -2,7 +2,7 @@
 
 ## Table of Content
 
-- [Role & Responsibility](#Role-&-Responsibility)
+- [Role & Responsibility](#Role--Responsibility)
 - [Work Flow](#Application-Work-Flow)
 - [Demo](#Demo)
 - [Project Description](#Project-Description)
@@ -12,7 +12,7 @@
 
 # Role & Responsibility
 
-I was the only developer in this project.
+<!-- I was the only developer in this project. -->
 
 ### My responsibilities in this project include:
 
@@ -28,9 +28,9 @@ I was the only developer in this project.
 - Responsive Design (Supports mobile devices)
 - Data Statistics
 - Gitlab Administration
-- Implement Video chat
-- Implement Text chat
-- Help Center embedding & Technical Support during the event
+<!-- - Implement Video chat
+- Implement Text chat -->
+<!-- - Help Center embedding & Technical Support during the event -->
 
 I developed front-end and back-end entirely on my own.
 
@@ -40,7 +40,7 @@ I developed front-end and back-end entirely on my own.
 
 ![diagram](assets/diagram.png)
 
-# Demo
+<!-- # Demo
 
 ### Website URL
 
@@ -54,20 +54,20 @@ While we always allow access to this website, we have closed most of its feature
 
 - [Seoul Map](https://www.youtube.com/watch?v=6EdqKznxncA)
 - [LIVE Streaming demo](https://www.youtube.com/watch?v=a9wX4MSkSyg)
-- [Video Chat](https://www.youtube.com/watch?v=edzgNn5f5yQ)
+- [Video Chat](https://www.youtube.com/watch?v=edzgNn5f5yQ) -->
 
-# Project Description
+<!-- # Project Description
 
 This web application was used for the Online Conference held by [Siemens](https://www.siemens.com/global/en.html), Multinational corporation headquartered in Munich, Germany.
 
 - Logged users per day: 2,000 ~ 3,000
 - Acceessed in: 5 countries
 - Acceessed by: Desktop, Mobile device, Labtop, Tablet
-- Acceessed on: Chrome, IE, Firefox, Safari, Edge
+- Acceessed on: Chrome, IE, Firefox, Safari, Edge -->
 
 ## Main features
 
-### Branding via built in booth
+### Branding
 
 ![booth.gif](assets/booth.gif)
 
