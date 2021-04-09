@@ -1,4 +1,4 @@
-# Siemens online Conference & Exhibition
+# Siemens online Conference
 
 ## Table of Content
 
@@ -99,7 +99,8 @@ This web application was used for the Online Conference held by [Siemens](https:
 
 ![stamp.png](assets/stamp.png)
 
-### This application feels like a real event and offers almost all features that offline events do.
+<!--
+### This application feels like a real event and offers almost all features that offline events do. -->
 
 # Achievement
 
