@@ -2,10 +2,16 @@
 
 ## Table of Content
 
+<!-- - [Role & Responsibility](#Role--Responsibility)
+- [Work Flow](#Application-Work-Flow)
+- [Demo](#Demo)
+- [Project Description](#Project-Description)
+- [Main Features](#Main-features)
+- [Achievement](#Achievement)
+- [Note](#note) -->
+
 - [Role & Responsibility](#Role--Responsibility)
 - [Work Flow](#Application-Work-Flow)
-<!-- - [Demo](#Demo)
-- [Project Description](#Project-Description) -->
 - [Main Features](#Main-features)
 - [Achievement](#Achievement)
 - [Note](#note)
