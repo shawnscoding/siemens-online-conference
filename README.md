@@ -67,9 +67,9 @@ While we always allow access to this website, we have closed most of its feature
 This web application was used for the Online Conference held by [Siemens](https://www.siemens.com/global/en.html), Multinational corporation headquartered in Munich, Germany.
 
 - Logged users per day: 2,000 ~ 3,000
-- Acceessed in: 5 countries
-- Acceessed by: Desktop, Mobile device, Labtop, Tablet
-- Acceessed on: Chrome, IE, Firefox, Safari, Edge -->
+- Accessed in: 5 countries
+- Accessed by: Desktop, Mobile device, Labtop, Tablet
+- Accessed on: Chrome, IE, Firefox, Safari, Edge -->
 
 ## Main features
 
