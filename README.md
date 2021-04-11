@@ -20,9 +20,6 @@
 
 My responsibility was developing both front-end and back-end. Collaborating with management, departments, and customers to identify end-user requirements and specifications. Testing and deploying applications. Troubleshooting, debugging, maintaining and improving existing software.
 
-
-<!-- I was the only developer in this project. -->
-
 ### My responsibilities in this project include:
 
 - System Design
@@ -42,7 +39,6 @@ My responsibility was developing both front-end and back-end. Collaborating with
 - Implement Text chat -->
 <!-- - Help Center embedding & Technical Support during the event -->
 
-<!-- I developed front-end and back-end entirely on my own.  -->
 
 # Application Work Flow
 
@@ -112,15 +108,15 @@ This web application was used for the Online Conference held by [Siemens](https:
 <!--
 ### This application feels like a real event and offers almost all features that offline events do. -->
 
-# Achievement
-
 <!--
+
+# Achievement
 
 ### I've become familiar with Linux terminal.
 
 ### I learned how to talk to client, manage schedule and datas -->
 
-### This project motivated me to build a reactjs open-source library
+## This project motivated me to build a reactjs open-source library
 
 [Link To My Crontab library](https://www.npmjs.com/package/reactjs-crontab)
 
