@@ -18,12 +18,16 @@
 
 # Role & Responsibility
 
+My responsibility was developing both front-end and back-end. Collaborating with management, departments, and customers to identify end-user requirements and specifications. Testing and deploying applications. Troubleshooting, debugging, maintaining and improving existing software.
+
+
 <!-- I was the only developer in this project. -->
 
 ### My responsibilities in this project include:
 
 - System Design
 - Create UIs in React (tables, banners, poppers, Modals, buttons and so on)
+- Build Admin pages and APIs in nextjs
 - Build RESTful APIs in expressjs
 - CRUD data in Mysql DB Tables
 - Email, SMS Automation
@@ -38,7 +42,7 @@
 - Implement Text chat -->
 <!-- - Help Center embedding & Technical Support during the event -->
 
-I developed front-end and back-end entirely on my own.
+<!-- I developed front-end and back-end entirely on my own.  -->
 
 # Application Work Flow
 
