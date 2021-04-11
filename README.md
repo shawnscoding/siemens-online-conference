@@ -81,11 +81,11 @@ This web application was used for the Online Conference held by [Siemens](https:
 
 ![booth.gif](assets/booth.gif)
 
-### Networking via text chat
+### Networking
 
 ![assets/text_chat.gif](assets/text_chat.gif)
 
-### Counseling via video chat
+### Counseling
 
 ![assets/video_chat.gif](assets/video_chat.gif)
 
