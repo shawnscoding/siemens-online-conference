@@ -26,11 +26,11 @@ My responsibility was developing both front-end and back-end. Collaborating with
 ### My responsibilities in this project include:
 
 - System Design
-- Create UIs in React (tables, banners, poppers, Modals, buttons and so on)
 - Build Admin pages and APIs in nextjs
 - Build RESTful APIs in expressjs
 - CRUD data in Mysql DB Tables
-- Email, SMS Automation
+- Create UIs in React (tables, banners, poppers, Modals, buttons and so on)
+- Email, SMS, push notification automation
 - Back-up, sql statement automation
 - User Authentication
 - Schedule VOD and Live Streaming
@@ -128,4 +128,4 @@ During the development, I realised building a crontab (scheduling jobs) is quite
 
 # Note
 
-Due to the company policy, I am afraid that I am not allowed to open the source code.
+Due to the company policy, I am unable to open the source code.
