@@ -13,7 +13,6 @@
 - [Role & Responsibility](#Role--Responsibility)
 - [Work Flow](#Application-Work-Flow)
 - [Main Features](#Main-features)
-- [Achievement](#Achievement)
 - [Note](#note)
 
 # Role & Responsibility
