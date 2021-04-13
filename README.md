@@ -114,13 +114,13 @@ This web application was used for the Online Conference held by [Siemens](https:
 ### I've become familiar with Linux terminal.
 
 ### I learned how to talk to client, manage schedule and datas -->
-
+<!--
 ## This project motivated me to build a reactjs open-source library
 
 [Link To My Crontab library](https://www.npmjs.com/package/reactjs-crontab)
 
 I realised building a crontab (scheduling jobs) is quite tedious and difficult to test. This motivated me to create a node open-source package, which allows you to easily build a crontab functionality. I created this package entirely on my own. There is an average of approximately 300 weekly downloads.
-
+-->
 # Note
 
 Due to the company policy, I am unable to open the source code.
