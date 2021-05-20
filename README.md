@@ -21,8 +21,8 @@ My responsibility was developing front-end and back-end. Collaborating with mana
 - Talk to clients and project manager and review a project proposal  
 - Build Admin pages and APIs in Nextjs
 - Build RESTful APIs in Expressjs
-- create SQL statements 
-- Create UIs in React (tables, banners, poppers, Modals, buttons and so on)
+- Create SQL statements 
+- Create React components (tables, banners, poppers, Modals, buttons and so on)
 - Email, SMS and push notification automation
 - Back-up and SQL statement automation using Crontab in Linux
 - User Authentication
@@ -51,6 +51,8 @@ While we always allow access to this website, we have closed most of its feature
 
 This web application was used for the Online Conference held by [Siemens](https://www.siemens.com/global/en.html), A multinational corporation headquartered in Munich, Germany.
 
+- Development period: 2021.02 ~ 2021.04
+- Maintenance period: 2021.02 ~ 2021.05
 - Logged users per day: 2,000 ~ 3,000
 - Accessed in: 5 countries
 - Accessed by: Desktop, Mobile device, Laptop, Tablet
