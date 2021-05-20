@@ -96,9 +96,9 @@ This web application was used for the Online Conference held by [Siemens](https:
 
 # Achievement
 
-### Beacuse the project ended very successfully, We have earned their trust and concluded three additional contracts with them.
+### 1. Beacuse the project ended very successfully, We have earned their trust and concluded three additional contracts with them.
 
-### I learned how to lead a project while working in this project.
+### 2. I learned how to lead a project while working in this project.
 
 I was able to understand what's important job for Project Leader apart from development. As a leader, no matter waht your speciality it is, you need to spend a lot of time talking to clients and project members. This includes reviewing client's requirement, communicate with team members and other departments to find out if there is an issue in the process. For me, everytime our project manager added new functionality needed to be implemented to the proposal, I had to deeply think through if this is feasible and could be done by the deadline. If there's an issue to the requirement, I have to explain about the issue and suggest a solution. I didn't realise how massive responsibility a leader has before the begin of this project. Although all of the wokrs I was required to do was unfamiliar and overwhelming at the begining, my productivity could increase little by little everytime I solved a variety of issues. And the more we undertood each other's workflow, the easier it became to collaborate. I hgihly believe I learned and grew significantly from the experience. 
 
